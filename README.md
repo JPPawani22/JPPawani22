@@ -17,6 +17,10 @@ Passionate about building impactful web applications that solve real-life scenar
 ## 🛠️ Skills & Technologies
 
 <div align="center">
+  
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+</a>
 
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -32,6 +36,9 @@ Passionate about building impactful web applications that solve real-life scenar
 </a>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </a>
 <a href="https://ai.google/" target="_blank">
   <img src="https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI" />
