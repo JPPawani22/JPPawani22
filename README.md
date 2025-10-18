@@ -13,6 +13,18 @@ Passionate about building impactful web applications that solve real-life scenar
 - 🧠 Enthusiastic about AI, UI/UX, and creating seamless user experiences.
 - 📫 **How to reach me:** pawani02jp@gmail.com
 
+<div align="center">
+
+### 📫 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-flax-five-27.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pawani-uthpalawanna)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPPawani22)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pawani02jp)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/PawaniJP)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawani02jp@gmail.com)
+
+</div>
+
 ---
 
 ## 🛠️ Skills & Technologies
@@ -54,80 +66,89 @@ Passionate about building impactful web applications that solve real-life scenar
 
 ---
 
-## 📫 Contact Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawani02jp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pawani-uthpalawanna)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pawani02jp)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/PawaniJP)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
 
-⬅️ &nbsp; <b>Slide through my top GitHub projects!</b> &nbsp; ➡️
+### 🎨 Project Gallery
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/JPPawani22/my-portfolio"><b>Portfolio</b></a><br>
-      <sub>Personal portfolio site showcasing my projects and skills.</sub>
+    <td align="center" width="300">
+      <a href="https://github.com/JPPawani22/my-portfolio">
+        <img src="https://via.placeholder.com/250x150/6DB33F/white?text=Portfolio" width="250" height="150" style="border-radius: 10px;" alt="Portfolio"/>
+        <br/>
+        <b>Portfolio</b>
+      </a>
+      <br/>
+      <sub>Personal portfolio site showcasing my projects and skills</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/JPPawani22/homeflow"><b>Homeflow</b></a><br>
-      <sub>Web app for streamlined home management.</sub>
+    <td align="center" width="300">
+      <a href="https://github.com/JPPawani22/homeflow">
+        <img src="https://via.placeholder.com/250x150/DD0031/white?text=Homeflow" width="250" height="150" style="border-radius: 10px;" alt="Homeflow"/>
+        <br/>
+        <b>Homeflow</b>
+      </a>
+      <br/>
+      <sub>Web app for streamlined home management</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/JPPawani22/tourism"><b>Tourism</b></a><br>
-      <sub>Tourism web application for enhanced travel experiences.</sub>
+    <td align="center" width="300">
+      <a href="https://github.com/JPPawani22/tourism">
+        <img src="https://via.placeholder.com/250x150/3776AB/white?text=Tourism" width="250" height="150" style="border-radius: 10px;" alt="Tourism"/>
+        <br/>
+        <b>Tourism</b>
+      </a>
+      <br/>
+      <sub>Tourism web application for enhanced travel experiences</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/JPPawani22/blogv"><b>BlogV</b></a><br>
-      <sub>Modern blogging platform with rich content creation features.</sub>
+    <td align="center" width="300">
+      <a href="https://github.com/JPPawani22/blogv">
+        <img src="https://via.placeholder.com/250x150/000000/white?text=BlogV" width="250" height="150" style="border-radius: 10px;" alt="BlogV"/>
+        <br/>
+        <b>BlogV</b>
+      </a>
+      <br/>
+      <sub>Modern blogging platform with rich content creation</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/JPPawani22/skillsync"><b>SkillSync</b></a><br>
-      <sub>Platform for skill sharing and collaborative learning.</sub>
+    <td align="center" width="300">
+      <a href="https://github.com/JPPawani22/skillsync">
+        <img src="https://via.placeholder.com/250x150/4285F4/white?text=SkillSync" width="250" height="150" style="border-radius: 10px;" alt="SkillSync"/>
+        <br/>
+        <b>SkillSync</b>
+      </a>
+      <br/>
+      <sub>Platform for skill sharing and collaborative learning</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/WeerasingheMSC/AI_Interviews"><b>AI_Interviews</b></a><br>
-      <sub>AI-driven interview solution (collaborative project).</sub>
+    <td align="center" width="300">
+      <a href="https://github.com/WeerasingheMSC/AI_Interviews">
+        <img src="https://via.placeholder.com/250x150/0A66C2/white?text=AI+Interviews" width="250" height="150" style="border-radius: 10px;" alt="AI Interviews"/>
+        <br/>
+        <b>AI Interviews</b>
+      </a>
+      <br/>
+      <sub>AI-driven interview solution (collaborative project)</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/nivethan-nirosh/MPMA-ERP"><b>MPMA-ERP</b></a><br>
-      <sub>ERP system for efficient business management.</sub>
+    <td align="center" width="300">
+      <a href="https://github.com/nivethan-nirosh/MPMA-ERP">
+        <img src="https://via.placeholder.com/250x150/336791/white?text=MPMA+ERP" width="250" height="150" style="border-radius: 10px;" alt="MPMA ERP"/>
+        <br/>
+        <b>MPMA-ERP</b>
+      </a>
+      <br/>
+      <sub>ERP system for efficient business management</sub>
     </td>
-    <td align="center" width="200">
-      <!-- Add more projects here if desired -->
+    <td align="center" width="300">
+      <!-- Empty slot for future projects -->
     </td>
-    <td align="center" width="200">
-      <!-- Add more projects here if desired -->
+    <td align="center" width="300">
+      <!-- Empty slot for future projects -->
     </td>
   </tr>
 </table>
-</div>
-
----
-
-## 🔗 Explore More
-
-<div align="center">
-
-✨&nbsp;  
-<a href="https://my-portfolio-flax-five-27.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
-</a>
-✨  
 
 </div>
 
@@ -157,6 +178,6 @@ _Thanks for visiting my profile! Feel free to reach out or explore my repositori
 
 ![Pawani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPPawani22&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPPawani22&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=JPPawani22&theme=radical)
 
 </div>
