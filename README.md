@@ -1,6 +1,6 @@
 # Hi there, I'm Pawani Uthpalawanna 👋
 
-🎓 **IT Undergraduate** | 💻 **Fullstack Developer**  
+🎓 **IT Undergraduate** | 💻 **Fullstack Developer**  |  🤖 **AI Enthusiast**  
 Passionate about building impactful web applications that solve real-life scenarios and eager to explore novel tech stacks!
 
 ---
@@ -175,8 +175,6 @@ _Thanks for visiting my profile! Feel free to reach out or explore my repositori
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![Pawani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPPawani22&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JPPawani22&theme=radical)
 
